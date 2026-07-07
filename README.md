@@ -31,7 +31,7 @@ PortfolioIQ allows users to build a stock portfolio, fetch live market prices, v
 ### AI Portfolio Analysis
 
 
-![AI Analysis](screenshot/Screenshot 2026-07-07 174556.png)
+![AI Analysis](AIanalyzis.png)
 
 ---
 
