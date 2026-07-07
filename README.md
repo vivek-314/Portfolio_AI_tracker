@@ -34,7 +34,8 @@ PortfolioIQ allows users to build a stock portfolio, fetch live market prices, v
 
 > Add a screenshot here
 
-![AI Analysis](screenshots/analysis.png)
+![AI Analysis](<img width="530" height="818" alt="image" src="https://github.com/user-attachments/assets/429fffae-6062-4a1f-86b5-9415541d3cd2" />
+)
 
 ---
 
