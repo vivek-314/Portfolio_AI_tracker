@@ -1,5 +1,6 @@
 ﻿
-# 📈 PortfolioIQ – AI Powered Portfolio Analyzer
+# PortfolioAI 
+### AI Powered Portfolio Analyzer
 
 An AI-powered investment portfolio analysis platform built using **Python, Flask, SQLite, yFinance, Chart.js, and Google Gemini AI**.
 
@@ -7,7 +8,7 @@ PortfolioIQ allows users to build a stock portfolio, fetch live market prices, v
 
 ---
 
-## 🚀 Features
+## Features
 
 - 📊 Live portfolio valuation using Yahoo Finance
 - 💰 Invested Amount, Current Value, Profit/Loss & Returns
