@@ -1,0 +1,122 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>AI Portfolio Analysis</title>
+
+    <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+
+    <style>
+
+        body{
+            background:#f3f6fb;
+            font-family:Arial, Helvetica, sans-serif;
+            margin:0;
+            padding:40px;
+        }
+
+        .analysis-container{
+
+            width:80%;
+            max-width:1000px;
+
+            margin:auto;
+
+            background:white;
+
+            padding:40px;
+
+            border-radius:20px;
+
+            box-shadow:0 10px 30px rgba(0,0,0,.1);
+
+        }
+
+        h1{
+
+            text-align:center;
+
+            color:#1e3a8a;
+
+            margin-bottom:30px;
+        }
+
+        .report{
+
+            white-space:pre-wrap;
+
+            font-size:25px;
+
+            line-height:1.8;
+
+            color:#374151;
+
+            background:#f8fafc;
+
+            padding:25px;
+
+            border-radius:12px;
+
+            border-left:6px solid #2563eb;
+
+        }
+
+        .back-btn{
+
+            display:inline-block;
+
+            margin-top:30px;
+
+            padding:14px 30px;
+
+            background:#2563eb;
+
+            color:white;
+
+            text-decoration:none;
+
+            border-radius:10px;
+
+            font-weight:bold;
+
+            transition:.3s;
+        }
+
+        .back-btn:hover{
+
+            background:#1d4ed8;
+        }
+
+    </style>
+
+</head>
+
+<body>
+
+<div class="analysis-container">
+
+    <h1>🤖 AI Portfolio Analysis</h1>
+
+    <div class="report">
+
+{{ report }}
+
+    </div>
+
+    <center>
+
+        <a href="/" class="back-btn">
+
+            ← Back to Dashboard
+
+        </a>
+
+    </center>
+
+</div>
+
+</body>
+
+</html>
