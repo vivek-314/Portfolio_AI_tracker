@@ -10,18 +10,16 @@ PortfolioIQ allows users to build a stock portfolio, fetch live market prices, v
 
 ## Features
 
-- 📊 Live portfolio valuation using Yahoo Finance
-- 💰 Invested Amount, Current Value, Profit/Loss & Returns
+- Live portfolio valuation using Yahoo Finance
+- Invested Amount, Current Value, Profit/Loss & Returns
 - 📈 Portfolio Allocation Pie Chart
 - 📉 Buy Price vs Current Price Bar Chart
-- 🤖 AI-powered portfolio analysis using Google Gemini
-- 🗑️ Add and Delete stocks (CRUD)
-- 💾 SQLite database for portfolio storage
-- 🎨 Responsive and clean UI
+- AI-powered portfolio analysis using Google Gemini
+- Add and Delete stocks
+- SQLite database for portfolio storage
+- Responsive and clean UI
 
 ---
-
-## 🖼️ Screenshots
 
 ### Dashboard
 
@@ -36,7 +34,7 @@ PortfolioIQ allows users to build a stock portfolio, fetch live market prices, v
 
 ---
 
-## 🛠️ Tech Stack
+## Languages used
 
 ### Backend
 - Python
@@ -86,7 +84,7 @@ PortfolioIQ
 
 ---
 
-## ⚙️ Installation
+## Installation
 
 Clone the repository
 
