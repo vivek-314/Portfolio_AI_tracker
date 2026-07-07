@@ -26,7 +26,7 @@ PortfolioIQ allows users to build a stock portfolio, fetch live market prices, v
 
 > Add a screenshot here
 
-![Dashboard](portfolio.png)
+![Dashboard](screenshot/portfolio.png)
 
 ---
 
